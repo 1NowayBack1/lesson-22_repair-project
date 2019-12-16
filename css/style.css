@@ -428,7 +428,7 @@ img {
     .section-title__heading {
       font-family: 'Yeseva One', cursive;
       text-transform: uppercase;
-      line-height: 138%; }
+      line-height: 138.6%; }
       .section-title__heading--primary {
         color: #E3B873; }
     .section-title__word {
@@ -629,10 +629,10 @@ img {
 
 .swiper-button-prev {
   left: 0;
-  background: url("../../img/arrow-prev.svg") no-repeat center; }
+  background: url("../img/arrow-prev.svg") no-repeat center; }
 
 .swiper-button-next {
-  background: url("../../img/arrow-next.svg") no-repeat center; }
+  background: url("../img/arrow-next.svg") no-repeat center; }
 
 .swiper-container-horizontal > .swiper-pagination-bullets {
   width: auto;
